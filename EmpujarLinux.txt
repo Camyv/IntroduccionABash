@@ -1,0 +1,16 @@
+EJERCICIOS:
+1- para ver mi directorio 'pwd'
+2- para saber cuantos archivos hay 'ls'
+3- para ver la fecha 'ls -l'
+4- para ver el tamaño 'ls -sh'
+5- para agregar la ultima salida del comando a un archivo 'ls -sh > UltimaSalida.txt'
+6- para mostrar los archivos con permisos 'ls -l EmpujarLinux.txt'
+7- para crear una carpeta 'mkdir 'nombre' y para entrar 'cd nombre'
+8- para ver los procesos que se estan ejecutando actualmente en otro archivo 'ps> ProcesosDelSistema'
+9- para crear un archivo con el listado 'ls> Mis_archivos.txt'
+10- top -'m', top t, top s
+11- cat imprime el contenido del fichero sin ningún tipo de paginación ni posibilidad de modificarlo, more permite visualizar por pantalla el contenido de un fichero de texto, con la diferencia con cat de que ‘more’ pagina los resultados y se puede navegar con la tecla espacio, less puede hacer todo lo que hace ‘more’ añadiendo mayor capacidad de navegación por el fichero (avanzar y retroceder).
+12- ls -sh > archivos.txt
+13- ls -l archivos.txt
+14- rm archivos.txt
+15- touch Manual_lsykill.txt
